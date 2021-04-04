@@ -1,3 +1,4 @@
+const students = 
 [
 "Doug",
 "Michele",
@@ -17,3 +18,6 @@
 "Fathi",
 "Weiwei"
 ]
+export{ 
+    students
+}
